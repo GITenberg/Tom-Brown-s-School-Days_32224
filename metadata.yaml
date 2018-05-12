@@ -13,6 +13,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Hughes
 description: Recounts the adventures of a young English boy at Rugby School in the
   early nineteenth century.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32224#Tom-Brown-s-School-Days
 gutenberg_issued: '2010-05-02'
 gutenberg_type: Text
 identifiers:
